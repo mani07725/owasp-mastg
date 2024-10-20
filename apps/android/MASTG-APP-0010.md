@@ -1,5 +1,5 @@
 ---
-title: InsecureBankv2
+title: InsecureBankV2
 platform: android
 source: https://github.com/dineshshetty/Android-InsecureBankv2
 ---
